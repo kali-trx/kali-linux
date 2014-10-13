@@ -1,0 +1,2 @@
+Verzija skripta = 1.0.0
+
