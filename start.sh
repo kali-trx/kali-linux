@@ -19,7 +19,7 @@ echo "[4] Metasploit Skript - Automatizacija"
 echo "[x] Izlaz"
 read pitanje
 if [ $pitanje = "0" ] ; then
-         echo "[1] Mjenjam MAC adresu..."
+         echo "[0] Podesavanje skripta..."
          ./sys/sys.sh
          echo "[i] Uspjesno pokrenut skript..."
        fi
